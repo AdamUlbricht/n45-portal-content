@@ -1,8 +1,8 @@
 ---
+visibility: public
 title: Adam Ulbricht
 subtitle: Systems Architect & Game Developer
 status: Active
-visibility: public
 last_updated: 2026-01-15
 ---
 
