@@ -9,7 +9,7 @@ visibility: public
 [[03_Design_UX]]
 [[04_Implementation_Plan]]
 # Project Title
-N45.dev - Professional and Personal Portal
+N45.io - Professional and Personal Portal
 # Primary Objective & Core Mission
 This website serves to provide a unified web presence that demonstrates Adam Ulbricht's technical competency in game development and cybersecurity while also providing a secure private journal and consolidated social media feed for selected authorised users.
 # Scope
@@ -53,9 +53,10 @@ The system relies on the **Vercel** build environment to parse the Markdown and 
 The build process assumes a static directory structure within the GitHub Repo. Moving files within the repo will break the automated pull logic. 
 # Success Criteria:
 ## Phase 1 - Infrastructure
-Complete when the domain n45.dev resolves to a **Vercel**-hosted 'coming soon' page.
+**Status:** ✅ Complete (2026-01-15)
+Complete when the domain n45.io resolves to a **Vercel**-hosted 'coming soon' page.
 ### Verification Test
-**Verification:** Navigate to `N45.dev` in a browser
+**Verification:** Navigate to `https://n45.io` in a browser
 	**Success:** Confirmed if the **Vercel** default page renders via HTTPS
 ## Phase 2 - Core UI
 Complete when:
@@ -65,9 +66,10 @@ Complete when:
 * **PKB** theme and layout is finalised and ready for population
 * **Showcase** page is constructed with theme/layout standardised to match the rest of the site.
 ### Verification Test
-**Verification:** Navigate to pages `N45.dev`, `N45.dev/professional-profile`, `N45.dev/pkb`, `N45.dev/showcase`. 
+**Verification:** Navigate to pages `n45.io`, `n45.io/professional-profile`, `n45.io/pkb`, `n45.io/showcase`. 
 	**Success:** Confirmed when all four pages render, correctly displaying the standardised theme and stylings, and navigation between them is operational.
 ## Phase 3 - Data Pipe
+**Status:** ✅ Complete (2026-01-15)
 Complete when public Obsidian files are demonstrably present on the domain and all other files are demonstrably not. **PKB** page accessible and explorable as a wiki via the website.
 ### Verification Test
 **Verification:** Push a change to the **Child Obsidian Repo**. 
