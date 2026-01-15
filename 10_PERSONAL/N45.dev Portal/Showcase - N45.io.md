@@ -1,8 +1,12 @@
 ---
-title: "N45.io Digital Garden"
-subtitle: "A self-healing, automated personal data aggregator."
-date: "2026-01-15"
-tags: ["Next.js", "Supabase", "Python", "Automation"]
+title: Showcase - N45.io
+subtitle: A self-healing, automated personal data aggregator.
+date: 2026-01-15
+tags:
+  - Next.js
+  - Supabase
+  - Python
+  - Automation
 visibility: public
 weight: 1
 ---
