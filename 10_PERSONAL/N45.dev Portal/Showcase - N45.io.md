@@ -1,5 +1,6 @@
 ---
 title: Showcase - N45.io
+slug: "n45-portal"
 subtitle: A self-healing, automated personal data aggregator.
 date: 2026-01-15
 tags:
