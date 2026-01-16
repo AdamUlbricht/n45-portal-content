@@ -49,6 +49,7 @@ This project is supported by a comprehensive suite of documentation that covers 
 - **Hosting:** Vercel
 ---
 ## Documentation
+* [System Architecture](/posts/n45-architecture)
 * [[00_Documentation_Hub]]
 * [[01_Project_Vision_and_Scope]]
 * [[02_System_Architecture]]
