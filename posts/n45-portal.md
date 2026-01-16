@@ -1,6 +1,7 @@
 ---
 date: 2026-01-16
 slug: n45-portal
+status: Active
 subtitle: A self-healing, automated personal data aggregator and digital garden.
 tags:
 - Next.js
