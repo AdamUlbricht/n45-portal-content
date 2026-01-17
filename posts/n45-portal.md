@@ -1,7 +1,7 @@
 ---
-date: 2026-01-16
+date modified: 2026-01-17
 slug: n45-portal
-status: Active
+status: Live
 subtitle: A self-healing, automated personal data aggregator and digital garden.
 tags:
 - Next.js
@@ -49,12 +49,11 @@ This project is supported by a comprehensive suite of documentation that covers 
 - **Hosting:** Vercel
 ---
 ## Documentation
-* [System Architecture](/posts/n45-architecture)
-* [[00_Documentation_Hub]]
-* [[01_Project_Vision_and_Scope]]
-* [[02_System_Architecture]]
-* [[03_Developer_Onboarding_Guide]]
-* [[04_Deployment_and_Operations_Manual]]
-* [[05_UI_UX_Style_Guide]]
-* [[06_Content_Management_Guide]]
-* [[07_Security_and_Access_Control]]
+* [00_Documentation_Hub](/showcase/00_documentation_hub)
+* [01_Project_Vision_and_Scope](/showcase/01_project_vision_and_scope)
+* [02_System_Architecture](/showcase/02_system_architecture)
+* [03_Developer_Onboarding_Guide](/showcase/03_developer_onboarding_guide)
+* [04_Deployment_and_Operations_Manual](/showcase/04_deployment_and_operations_manual)
+* [05_UI_UX_Style_Guide](/showcase/05_ui_ux_style_guide)
+* [06_Content_Management_Guide](/showcase/06_content_management_guide)
+* [07_Security_and_Access_Control](/showcase/07_security_access_control)
