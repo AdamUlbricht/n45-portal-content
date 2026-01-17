@@ -1,5 +1,12 @@
 ---
+date modified: 2026-01-17
 parent: n45-portal
+slug: system-architecture
+status: Live
+subtitle: The "How." A technical blueprint of the technology stack, data flows, and
+  service integrations.
+tags: null
+title: Showcase - N45.io - System Architecture
 visibility: public
 ---
 

@@ -1,5 +1,12 @@
 ---
+date modified: 2026-01-17
 parent: n45-portal
+slug: deployment-and-operations-manual
+status: Live
+subtitle: The "Live." Covers the CI/CD pipeline, production hosting, maintenance tasks,
+  and troubleshooting.
+tags: null
+title: Showcase - N45.io - Deployment and Operations Manual
 visibility: public
 ---
 

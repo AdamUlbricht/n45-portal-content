@@ -1,5 +1,12 @@
 ---
+date modified: 2026-01-17
 parent: n45-portal
+slug: security-and-access-control
+status: Live
+subtitle: The "Security." Details on authentication, user whitelisting, and secrets
+  management.
+tags: null
+title: Showcase - N45.io - Security and Access Control
 visibility: public
 ---
 

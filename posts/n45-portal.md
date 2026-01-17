@@ -49,11 +49,11 @@ This project is supported by a comprehensive suite of documentation that covers 
 - **Hosting:** Vercel
 ---
 ## Documentation
-* [00_Documentation_Hub](/showcase/00_documentation_hub)
-* [01_Project_Vision_and_Scope](/showcase/01_project_vision_and_scope)
-* [02_System_Architecture](/showcase/02_system_architecture)
-* [03_Developer_Onboarding_Guide](/showcase/03_developer_onboarding_guide)
-* [04_Deployment_and_Operations_Manual](/showcase/04_deployment_and_operations_manual)
-* [05_UI_UX_Style_Guide](/showcase/05_ui_ux_style_guide)
-* [06_Content_Management_Guide](/showcase/06_content_management_guide)
-* [07_Security_and_Access_Control](/showcase/07_security_access_control)
+* [00_Documentation_Hub](/showcase/n45-portal/documentation/00_documentation_hub)
+* [01_Project_Vision_and_Scope](/showcase/n45-portal/documentation/01_project_vision_and_scope)
+* [02_System_Architecture](/showcase/n45-portal/documentation/02_system_architecture)
+* [03_Developer_Onboarding_Guide](/showcase/n45-portal/documentation/03_developer_onboarding_guide)
+* [04_Deployment_and_Operations_Manual](/showcase/n45-portal/documentation/04_deployment_and_operations_manual)
+* [05_UI_UX_Style_Guide](/showcase/n45-portal/documentation/05_ui_ux_style_guide)
+* [06_Content_Management_Guide](/showcase/n45-portal/documentation/06_content_management_guide)
+* [07_Security_and_Access_Control](/showcase/n45-portal/documentation/07_security_access_control)

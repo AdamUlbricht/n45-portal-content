@@ -1,5 +1,12 @@
 ---
+date modified: 2026-01-17
 parent: n45-portal
+slug: developer-onboarding-guide
+status: Live
+subtitle: The "Setup." A step-by-step guide to get a local development environment
+  running from zero.
+tags: null
+title: Showcase - N45.io - Developer Onboarding Guide
 visibility: public
 ---
 

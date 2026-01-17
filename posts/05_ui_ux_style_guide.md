@@ -1,5 +1,12 @@
 ---
+date modified: 2022-01-17
 parent: n45-portal
+slug: ui-ux-style-guide
+status: Live
+subtitle: The "Look & Feel." Documents all branding, color palettes, typography, and
+  component styling.
+tags: null
+title: Showcase - N45.io - UI/UX Style Guide
 visibility: public
 ---
 

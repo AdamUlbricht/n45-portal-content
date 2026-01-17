@@ -1,5 +1,12 @@
 ---
+date modified: 2026-01-17
 parent: n45-portal
+slug: project-vision-and-scope
+status: Live
+subtitle: The "Why." Outlines the project's mission, target audience, core features,
+  and success metrics.
+tags: null
+title: Showcase - N45.io - Project Vision and Scope
 visibility: public
 ---
 

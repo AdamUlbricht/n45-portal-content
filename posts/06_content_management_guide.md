@@ -1,5 +1,12 @@
 ---
+date modified: 2026-01-17
 parent: n45-portal
+slug: content-management-guide
+status: Live
+subtitle: The "Content." Instructions for adding and managing projects, profile information,
+  and the social feed.
+tags: null
+title: Showcase - N45.io - Content Management Guide
 visibility: public
 ---
 
