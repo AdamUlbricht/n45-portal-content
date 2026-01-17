@@ -7,6 +7,7 @@ subtitle: The "Why." Outlines the project's mission, target audience, core featu
   and success metrics.
 tags: null
 title: Showcase - N45.io - Project Vision and Scope
+type: documentation
 visibility: public
 ---
 

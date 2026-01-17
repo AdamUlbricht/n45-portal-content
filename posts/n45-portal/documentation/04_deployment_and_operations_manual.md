@@ -7,6 +7,7 @@ subtitle: The "Live." Covers the CI/CD pipeline, production hosting, maintenance
   and troubleshooting.
 tags: null
 title: Showcase - N45.io - Deployment and Operations Manual
+type: documentation
 visibility: public
 ---
 

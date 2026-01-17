@@ -7,6 +7,7 @@ subtitle: The central documentation hub. A table of contents for the documentati
   of N45.io.
 tags: null
 title: Showcase - N45.io - Documentation
+type: documentation
 visibility: public
 ---
 

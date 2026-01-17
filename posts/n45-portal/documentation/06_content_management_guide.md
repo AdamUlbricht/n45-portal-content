@@ -7,6 +7,7 @@ subtitle: The "Content." Instructions for adding and managing projects, profile 
   and the social feed.
 tags: null
 title: Showcase - N45.io - Content Management Guide
+type: documentation
 visibility: public
 ---
 

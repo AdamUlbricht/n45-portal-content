@@ -7,6 +7,7 @@ subtitle: The "Security." Details on authentication, user whitelisting, and secr
   management.
 tags: null
 title: Showcase - N45.io - Security and Access Control
+type: documentation
 visibility: public
 ---
 

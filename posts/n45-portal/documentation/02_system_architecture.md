@@ -7,6 +7,7 @@ subtitle: The "How." A technical blueprint of the technology stack, data flows, 
   service integrations.
 tags: null
 title: Showcase - N45.io - System Architecture
+type: documentation
 visibility: public
 ---
 

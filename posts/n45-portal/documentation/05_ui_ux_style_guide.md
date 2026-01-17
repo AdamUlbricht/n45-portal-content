@@ -7,6 +7,7 @@ subtitle: The "Look & Feel." Documents all branding, color palettes, typography,
   component styling.
 tags: null
 title: Showcase - N45.io - UI/UX Style Guide
+type: documentation
 visibility: public
 ---
 

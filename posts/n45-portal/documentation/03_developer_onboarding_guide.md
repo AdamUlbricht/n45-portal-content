@@ -7,6 +7,7 @@ subtitle: The "Setup." A step-by-step guide to get a local development environme
   running from zero.
 tags: null
 title: Showcase - N45.io - Developer Onboarding Guide
+type: documentation
 visibility: public
 ---
 
