@@ -1,6 +1,6 @@
 ---
 date modified: 2026-01-17
-slug: n45-portal
+slug: n45-portal/n45-portal
 status: Live
 subtitle: A self-healing, automated personal data aggregator and digital garden.
 tags:
@@ -10,6 +10,7 @@ tags:
 - Automation
 - Vercel
 title: Showcase - N45.io
+type: project
 visibility: public
 weight: 1
 ---
